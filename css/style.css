@@ -151,7 +151,7 @@ ul{
 .features .feature-item::before{
     height: 20px;
     width: 20px;
-    background-color: var(--color-1);
+    background-color: #c2b5b5;
     left: -20px;
     top: 40%;
 }
@@ -162,7 +162,7 @@ ul{
 .features .feature-item::after{
     height: 30px;
     width: 30px;
-    background-color: var(--color-2);
+    background-color: #c2b5b5;
     right: -30px;
     top: 80%;
 }
